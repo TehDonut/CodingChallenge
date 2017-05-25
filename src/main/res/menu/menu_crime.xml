@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pat.codingchallenge.HomeActivity">
+    <item
+        android:id="@+id/search"
+        android:title="@string/action_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/clear_date"
+        android:title="@string/clear_date"
+        app:showAsAction="never"
+        />
+
+</menu>
