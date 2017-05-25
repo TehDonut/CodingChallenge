@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="action_search">Search</string>
+    <string name="crime_name_label">Crime: %s</string>
+    <string name="crime_count_label">Count: %s</string>
+    <string name="team_abbrev_label">Team: %s</string>
+    <string name="team_name_label">Name: %s</string>
+    <string name="team_city_label">City: %s</string>
+    <string name="arrest_count_label">Arrest Count: %s</string>
+    <string name="clear_date">Clear Dates</string>
+    <string name="set_date">Set Date</string>
+</resources>
